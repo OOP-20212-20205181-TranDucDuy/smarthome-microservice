@@ -1,4 +1,4 @@
-package org.development.userservice.exceptions;
+package org.development.authservice.exceptions;
 
 public class BadRequestException extends RuntimeException {
     public BadRequestException(String message) {
